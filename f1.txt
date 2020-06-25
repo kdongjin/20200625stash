@@ -4,8 +4,4 @@ class A{
 	A(int no){
 		this.no = no;
 	}
-	//왕짜증 팀장 요구한 함수...
-	public int getNo(){
-		return this.no;
-	}
 }
